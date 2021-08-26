@@ -25,7 +25,7 @@ SECRET_KEY = 'ruo-3r&pdoi94l5u$i$=eo35m3mk8x&ow)f+2g^=%)9weoed0@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [''127.0.0.1','bookmarksaw.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','bookmarksaw.herokuapp.com']
 
 
 # Application definition
